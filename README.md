@@ -7,8 +7,8 @@ pip install mcstatus
 pip install colorama
 pip install os
 pip install time
-
-Run with
+```
+Run script with
 ```python
 python3 main.py
 ```
