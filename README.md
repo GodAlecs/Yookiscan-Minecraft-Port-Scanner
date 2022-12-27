@@ -5,6 +5,7 @@ pip install os
 pip install re
 pip install mcstatus
 pip install colorama
+pip install socket
 pip install time
 ```
 Run script with
