@@ -1,5 +1,6 @@
 #   Yookiscan by GodAlecs
 #   This script is NOT FOR SALE
+#   https://github.com/GodAlecs/Yookiscan-Minecraft-Port-Scanner
 
 #   Library
 import socket, re, time, os
