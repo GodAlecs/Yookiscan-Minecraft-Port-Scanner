@@ -7,7 +7,7 @@ from colorama import Fore
 from mcstatus import JavaServer
 
 #   General Variables
-folder = "yookiscan-results" # Nome della cartella
+folder = "yookiscan-results" # Name of folder
 reset = Fore.RESET # For color CLEAN
 yellow = Fore.YELLOW # For color YELLOW
 red = Fore.RED # For color RED
