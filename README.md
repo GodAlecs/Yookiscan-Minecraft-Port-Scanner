@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/🆘-Contact Me-red.svg?maxAge=2592000&amp;style=flat">
   </a>
   <a href="https://www.paypal.me/HyperlegacyBot">
-    <img src="https://img.shields.io/badge/$-donate-orange.svg?maxAge=2592000&amp;style=flat">
+    <img src="https://img.shields.io/badge/€-PayPal-orange.svg?maxAge=2592000&amp;style=flat">
   </a>
 </p>
 
