@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <br>
-  <img src="https://github.com/GodAlecs/Yookiscan-Minecraft-Port-Scanner/blob/bd25320f749508258928004b973a986aa0dae850/img/logo.png" alt="Markdownify" width="200">
+  <img src="https://github.com/GodAlecs/Yookiscan-Minecraft-Port-Scanner/blob/bd25320f749508258928004b973a986aa0dae850/img/logo.png" alt="minecraft-logo" width="200">
   <br>
   Yookiscan
   <br>
