@@ -1,4 +1,4 @@
-# ⭐ Yookiscan: Minecraft Port Scanner
+# ⭐ Yookiscan: Minecraft Port Scanner [v1.5]
 
 <h1 align="center">
   <br>
@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  • <a href="https://github.com/GodAlecs/Yookiscan-Minecraft-Port-Scanner/releases/tag/Scanner">Download</a> •
+  • <a href="https://github.com/GodAlecs/Yookiscan-Minecraft-Port-Scanner/releases">Download</a> •
   <a href="https://t.me/godalecsit">Telegram Channel</a> •
 </p>
 
